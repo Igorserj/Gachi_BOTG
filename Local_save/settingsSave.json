@@ -1,0 +1,11 @@
+{
+    "model": [
+        {
+            "fullScreen": true,
+            "shOn": true,
+            "windowWidth": 1280,
+            "windowHeight": 720
+        }
+    ],
+    "result" : true
+}

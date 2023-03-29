@@ -1,0 +1,14 @@
+{
+    "model": [
+        {
+            "seed": "",
+            "side": "left",
+            "floor": 1,
+            "level1Finished" : [
+                "false", "false", "false", "false", "false", "false", "false", "false", "false", "false"
+            ],
+            "currentRoom" : 0
+        }
+    ],
+    "result" : true
+}
